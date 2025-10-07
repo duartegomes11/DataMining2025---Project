@@ -1,4 +1,4 @@
-Loyalty,total_flights,total_flights_with_companions,total_distance,total_points_accumulated,total_points_redeemed,total_cost_redeemed,points_redemption_ratio,companion_flight_ratio
+Loyalty#,total_flights,total_flights_with_companions,total_distance,total_points_accumulated,total_points_redeemed,total_cost_redeemed,points_redemption_ratio,companion_flight_ratio
 100018,225,45,530230.0,53014.3,20562.8,201.9,0.3878727060434637,0.2
 100102,245,55,339114.6,33903.96,18760.6,186.2,0.5533453909218864,0.22448979591836735
 100140,211,51,432030.8,43192.58,4896.0,48.0,0.11335280272676464,0.24170616113744076
